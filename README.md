@@ -26,6 +26,7 @@ Este projeto é uma aplicação React feita para ajudar os usuários a gerenciar
 
 - [**React**](https://react.dev/): Biblioteca JavaScript para construir interfaces de usuário.
 - [**Tailwind CSS**](https://tailwindcss.com/): Framework CSS utilitário para estilização rápida e customizada.
+- [**Lucide**](https://lucide.dev/): Framework CSS utilitário para estilização rápida e customizada.
 - [**Vite**](https://vitejs.dev/): Ferramenta de build que proporciona um ambiente de desenvolvimento rápido para projetos web modernos.
 - [**React Hook Form**](https://react-hook-form.com/): Biblioteca para gerenciamento eficiente de formulários e validação em aplicações React.
 - [**Zod**](https://zod.dev/): Biblioteca TypeScript-first para validação e definição de esquemas de dados.
