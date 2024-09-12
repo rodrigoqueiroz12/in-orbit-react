@@ -70,7 +70,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
 ## Uso
 
-Após iniciar o servidor, você pode acessar a aplicação em `http://localhost:5173/`. Navegue pela aplicação e explore as funcionalidades oferecidas.
+Após iniciar o servidor, você pode acessar a aplicação em `http://localhost:5173/`. Navegue pela aplicação e explore suas funcionalidades.
 
 ## Contato
 
