@@ -66,7 +66,7 @@ Para rodar este projeto localmente, siga os passos abaixo:
 
    Isso irá iniciar o servidor de desenvolvimento e abrir a aplicação no navegador.
 
-**IMPORTANTE**: Para utilizar 100% do projeto, é necessário ter, também, o projeto [in-orbit-api](https://www.github.com/rodriqueiroz12/in-orbit-node) executando.
+**IMPORTANTE**: Para utilizar 100% do projeto, é necessário ter, também, o projeto [in-orbit-node](https://www.github.com/rodrigoqueiroz12/in-orbit-node) executando.
 
 ## Uso
 
